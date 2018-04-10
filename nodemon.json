@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_ATLAS_PW": "picsharing123",
+    "JWT_KEY": "secret"
+  }
+}
